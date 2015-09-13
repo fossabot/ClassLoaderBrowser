@@ -1,2 +1,2 @@
 # ClassLoaderBrowser
-Browse the Classloaders and Classes in a Java application
+Browse the Classloaders and Classes in a Running Java application.
